@@ -5,3 +5,4 @@
 4. Click on "Import" at the top.
 5. Click "Browse" and select the `user_registration.sql` file from the cloned project directory's `sql` folder, then click the 'Import' button to import the database structure into the database.# Hotel_management_python
 # Hotel_management_python
+# hotel_management
