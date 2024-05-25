@@ -1,0 +1,30 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.availability-form{
+  margin-top: -50px;
+  z-index: 2;
+  position: relative;
+
+}
+.custom-bg {
+  background-color: #2ec1ac;
+  border:  1px solid #2eacc1;
+}
+
+.custom-bg:hover {
+  background-color: #0cd7b9;
+  background-color:#0cd7b9 ;
+}
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
